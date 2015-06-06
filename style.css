@@ -1,0 +1,44 @@
+body{
+  background-color: black;
+  color: white;
+}
+ul{
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+h1{
+  font-size: 82px;
+  letter-spacing: 8px;
+  font-weight: 100;
+  padding-left: 15px;
+  font-family: "Helvetica";
+  border-bottom: 2px solid white;
+  border-left: 3px solid #df774f;
+  width: 380px;
+  margin: 0 auto;
+}
+li{
+  display: inline-block;
+  font-size: 22px;
+  padding: 0px 20px 25px 20px;
+  text-transform: uppercase;
+  font-family: "Avenir Light";
+}
+li a:hover{
+  color: #df774f;
+}
+#response{
+ font-family: "Times New Roman";
+}
+
+#bottom{
+  background-color: orange;
+  opacity: 0.8;
+  width: 35%;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
